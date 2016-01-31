@@ -1,0 +1,19 @@
+@import url(https://fonts.googleapis.com/css?family=Dosis:500,600,700);
+
+body {
+	background-color: #ffca00; /*#FDA91E;*/
+}
+
+h1 {
+	font-family: "Dosis";
+	font-weight: 700;
+	font-size: 9em;	
+	color: white;
+}
+
+h2 {
+	font-family: "Dosis";
+	font-weight: 600;
+	font-size: 3em;	
+	color: white;
+}
